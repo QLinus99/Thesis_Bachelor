@@ -1,2 +1,2 @@
 # Thesis
-Code and Paper for my Final Thesis
+Code and Paper of my Final Thesis
